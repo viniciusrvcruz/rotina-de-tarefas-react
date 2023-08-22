@@ -1,8 +1,21 @@
-# React + Vite
+# Rotina de Tarefas com React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sobre o projeto
 
-Currently, two official plugins are available:
+https://viniciusrvcruz.github.io/rotina-de-tarefas-react/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esse projeto é uma aplicação web construída com o curso de React do Matheus Battisti.
+
+A aplicação consiste em poder criar suas tarefas, organizar em ordem alfabética crescente e decrescente, organizar pela categoria, pesquisar as tarefas e também podendo excluí-las e colocar como concluídas.
+
+## Layout mobile
+![Mobile](https://github.com/viniciusrvcruz/rotina-de-tarefas-react/blob/main/src/assets/mobile.png)
+
+## Layout web
+![Web](https://github.com/viniciusrvcruz/rotina-de-tarefas-react/blob/main/src/assets/web.png)
+  
+# Autor
+
+Vinicius Roberto Vieira da Cruz
+
+https://www.linkedin.com/in/viniciuscruz7
