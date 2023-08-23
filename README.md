@@ -6,7 +6,7 @@ https://viniciusrvcruz.github.io/rotina-de-tarefas-react/
 
 Esse projeto é uma aplicação web construída com o curso de React do Matheus Battisti.
 
-A aplicação consiste em poder criar suas tarefas, organizar em ordem alfabética crescente e decrescente, organizar pela categoria, pesquisar as tarefas e também podendo excluí-las e colocar como concluídas.
+A aplicação consiste em poder criar suas tarefas, organizar em ordem alfabética crescente ou decrescente, tarefas que estão completas ou inconmpletas, pesquisar as tarefas e também podendo excluí-las e colocar como concluída.
 
 ## Layout mobile
 ![Mobile](https://github.com/viniciusrvcruz/rotina-de-tarefas-react/blob/main/src/assets/mobile.png)
